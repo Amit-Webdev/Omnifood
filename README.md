@@ -1,4 +1,3 @@
-Omnifood
 Welcome to Omnifood! This project is a website for a fictional food delivery service, designed to showcase modern web development techniques and best practices.
 
 
